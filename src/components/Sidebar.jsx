@@ -4,7 +4,7 @@ import Logo from './Logo';
 
 function Sidebar() {
   return (
-    <div className={styles.sidevar}>
+    <div className={styles.sidebar}>
       <Logo />
       <AppNav />
 
