@@ -1,3 +1,28 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Foradada del Toscar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-12T10:44:03.459Z",
+      "notes": "",
+      "position": {
+        "lat": "42.42345651793833",
+        "lng": "0.32958984375000006"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-12T10:46:46.974Z",
+      "notes": "",
+      "position": {
+        "lat": "40.44694705960048",
+        "lng": "-3.6914062500000004"
+      },
+      "id": 2
+    }
+  ]
 }
