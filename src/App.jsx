@@ -12,11 +12,11 @@ import Form from './components/Form';
 import SpinnerFullPage from './components/SpinnerFullPage';
 
 const Homepage = lazy(() => import('./pages/Homepage'));
-const Product = lazy(() => import('./pages/Homepage'));
-const Pricing = lazy(() => import('./pages/Homepage'));
-const Login = lazy(() => import('./pages/Homepage'));
-const AppLayout = lazy(() => import('./pages/Homepage'));
-const PageNotFound = lazy(() => import('./pages/Homepage'));
+const Product = lazy(() => import('./pages/Product'));
+const Pricing = lazy(() => import('./pages/Pricing'));
+const Login = lazy(() => import('./pages/Login'));
+const AppLayout = lazy(() => import('./pages/AppLayout'));
+const PageNotFound = lazy(() => import('./pages/PageNotFound'));
 
 function App() {
   return (
